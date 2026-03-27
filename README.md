@@ -27,6 +27,8 @@ The system combines optical imaging, signal processing, and quantitative analysi
 - Image-Based Data Extraction  
 - Quantitative Experimental Analysis  
 
+This project demonstrates practical experience in imaging-based signal analysis, which directly translates to medical image processing, segmentation, and AI-driven diagnostics.
+
 - ## Relevance to Medical Imaging & AI
 
 This project demonstrates transferable skills applicable to:
@@ -40,6 +42,17 @@ This project demonstrates transferable skills applicable to:
 - Converted pixel intensity profiles into quantitative measurements
 - Tracked resonance angle shifts to detect protein binding events
 - Used FWHM analysis to evaluate system sensitivity and accuracy
+
+- ## 📊 Sample Results & Analysis
+
+This project involved analyzing image-derived intensity data to detect biomolecular interactions.
+
+Key outputs included:
+- Intensity profile graphs showing protein binding events
+- Resonance angle shifts corresponding to refractive index changes
+- FWHM analysis for evaluating system sensitivity
+
+These results demonstrate the ability to extract meaningful quantitative insights from imaging-based data, a core requirement in medical imaging and AI-driven diagnostics.
 
 ## Impact
 This project demonstrates the ability to design, implement, and analyze biomedical imaging systems, bridging the gap between experimental bioengineering and modern AI-driven medical imaging applications.
