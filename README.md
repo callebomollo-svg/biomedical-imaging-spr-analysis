@@ -1,4 +1,6 @@
-Real-time biomedical imaging system for protein detection using optical signal analysis, image-based data processing, and quantitative measurement techniques.
+Real-time biomedical imaging system for protein detection using optical signal analysis and image-based data processing.
+
+Applications: Medical imaging, signal processing, computer vision, and AI-driven diagnostics
 
 This project demonstrates practical experience in imaging-based signal analysis, directly applicable to medical imaging workflows, segmentation, and AI-driven diagnostics.
 ## Overview
@@ -62,3 +64,11 @@ This work bridges experimental bioengineering and computational imaging, alignin
 
 ## Impact
 This project demonstrates the ability to design, implement, and analyze biomedical imaging systems, bridging the gap between experimental bioengineering and modern AI-driven medical imaging applications.
+
+## Visualization
+
+**SPR System Setup**  
+![SPR System](./results/spr-system.png)
+
+**Intensity-Based Signal Analysis**  
+![Intensity Analysis](./results/intensity-analysis.png)
