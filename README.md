@@ -1,9 +1,15 @@
-# biomedical-imaging-spr-thesis
-Biomedical Imaging Project: Microscopy-integrated Surface Plasmon Resonance (SPR) system for real-time protein detection, featuring image-based signal analysis, intensity profiling, and quantitative biomedical data processing.
-# Biomedical Imaging Project – SPR-Based Protein 
+# Biomedical Imaging & Signal Analysis Project  
+### SPR-Based Protein Detection Using Microscopy  
+Real-time biomedical imaging system for protein detection using optical signal analysis, image-based data processing, and quantitative measurement techniques.
 
 ## Overview
 This project presents the design and implementation of a microscopy-integrated Surface Plasmon Resonance (SPR) system for real-time, label-free protein detection.
+
+## Key Technologies
+- Optical Imaging Systems (Microscopy + Laser-based detection)
+- Image Processing (ImageJ, Python)
+- Signal Analysis (Intensity profiling, FWHM, resonance tracking)
+- Biomedical Data Analysis
 
 The system combines optical imaging, signal processing, and quantitative analysis to detect biomolecular interactions through changes in reflected light intensity.
 
@@ -21,13 +27,13 @@ The system combines optical imaging, signal processing, and quantitative analysi
 - Image-Based Data Extraction  
 - Quantitative Experimental Analysis  
 
-## Relevance to AI & Medical Imaging
-This work demonstrates strong foundational skills applicable to:
+- ## Relevance to Medical Imaging & AI
 
-- Medical imaging workflows (segmentation, visualization, analysis)
-- Image-based feature extraction and signal interpretation
-- AI model training using structured and unstructured biomedical data
-- Computer vision applications in healthcare diagnostics
+This project demonstrates transferable skills applicable to:
+- Medical image analysis and visualization
+- Image-based feature extraction
+- Signal interpretation from imaging systems
+- AI model training using biomedical datasets
 
 ## Methodology Highlights
 - Captured real-time reflected light data using a CCD imaging system
